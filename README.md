@@ -8,4 +8,4 @@ my *Tourism Resource Management System*
 - account.dat：账号信息 `Data`
 - scenic.dat：旅游景点信息 `Data`
 - ticket.dat：门票信息 `Data`
-> Last Update in 2022.6.7
+> Last Update in 2022/6/7
